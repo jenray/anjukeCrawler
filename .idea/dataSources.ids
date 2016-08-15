@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="anjuke@tdp2" uuid="199b3a4e-3b5e-40d4-818d-b684cb06d9b2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.5"/>
+  </data-source>
+</component>
